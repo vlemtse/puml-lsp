@@ -1,0 +1,10 @@
+@startuml t
+
+title ghbdtn
+
+a -> b: ghbdtn
+note right
+    test [[nonexistent.file NonExistent]]
+end note
+
+@end

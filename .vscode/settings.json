@@ -1,0 +1,4 @@
+{
+  "puml.languageServer.command": "node",
+  "puml.languageServer.args": ["/home/vit/projects/puml-lsp/src/index.js"]
+}
