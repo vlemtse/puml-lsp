@@ -1,0 +1,14 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+    "lsp": {
+        "puml-lsp":{
+            "command": [
+                "puml-lsp",
+                "--stdio"
+            ],
+            "extensions": [
+                ".puml"
+            ]
+        }
+    }
+}
